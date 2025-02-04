@@ -1,0 +1,1 @@
+# Emoji-Module-Font-iOS-18.x
